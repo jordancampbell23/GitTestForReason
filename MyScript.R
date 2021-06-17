@@ -16,3 +16,6 @@ secondfunction <- function(x, y){
 }
 
 secondfunction(2,3)
+
+
+# Jordan's addition
